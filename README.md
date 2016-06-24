@@ -1,2 +1,14 @@
 # 03-data-visualization-basics
-for DSW Week 3
+For DSW Week 3
+
+## EX01
+
+Hello World
+
+## EX02
+
+How to select and bind data
+
+## EX03
+
+A visualization of sentiment analysis
