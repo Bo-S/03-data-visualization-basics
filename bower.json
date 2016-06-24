@@ -1,0 +1,16 @@
+{
+  "name": "03-data-visualization-basics",
+  "description": "for DSW Week 3",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "visualization"
+  ],
+  "authors": [
+    "Jiangen He"
+  ],
+  "dependencies": {
+    "d3": "~3.5.17"
+  }
+}
